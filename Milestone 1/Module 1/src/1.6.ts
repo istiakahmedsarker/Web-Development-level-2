@@ -1,4 +1,4 @@
-// Function 
+{// Function 
 
 // normal function 
 function add(num1:number,num2:number ):number {
@@ -21,4 +21,4 @@ const poorUser = {
 
 const arr: number[ ] = [1,4,10]
 
-const newArray: number[] = arr.map((e:number):number => e*e)
+const newArray: number[] = arr.map((e:number):number => e*e)}
