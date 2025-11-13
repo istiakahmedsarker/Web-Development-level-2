@@ -21,4 +21,4 @@ const poorUser = {
 
 const arr: number[ ] = [1,4,10]
 
-const newArray = arr.map(e => e*e)
+const newArray: number[] = arr.map((e:number):number => e*e)
